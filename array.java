@@ -1,0 +1,6 @@
+/**
+ * array
+ */
+public class array {
+
+}
